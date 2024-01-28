@@ -6,3 +6,5 @@
 
 ```nom install react```
 
+
+sistema de registro 2
